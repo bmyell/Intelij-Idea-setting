@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="这个文件下面的东西不要动" type="PLAIN_TEXT" />
+      <mapping pattern="解释" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
